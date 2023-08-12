@@ -1,0 +1,10 @@
+Definição de paleta de cores
+cinza escuro: #737373
+cinza menos escuro: #8C8C8C
+cinza claro: #BFBFBD
+cinza cimento: #A6A498
+cinza/branco: #F2EEEB
+azul: #2B91AD
+vermelho: #D60404
+amarelo: #FFFC20
+verde: #30FF1D
