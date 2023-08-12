@@ -4,12 +4,34 @@
 }
 
 header{
-    height: 35vh;
+    height: 200px;
     background-color: #2B91AD;
 }
 
 main{
-    background-color: #F2EEEB;
+    background-color: #FFFC20;
+}
+
+div#ninho{
+    background-color: rgb(179, 28, 28);
+}
+
+div#conteudo{
+    display: flex;
+    justify-content: center;
+}
+
+div#texto{
+    padding: 10px;
+    display: block;
+}
+
+div.contcont{
+    height: 350px;
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
+    background-color: rgb(255, 253, 253)
 }
 
 footer{
